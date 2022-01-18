@@ -1,0 +1,110 @@
+.container {
+  display: flex;
+}
+.logo_login {
+  width: 278px;
+  height: 394px;
+  margin-left: 487px;
+  margin-top: 192px;
+}
+.login_form {
+  width: 494px;
+  height: 588px;
+  margin-left: 393px;
+  margin-top: 150px;
+}
+.login_txt {
+  margin: 0;
+  color: #f1faee;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+.text_login_1 {
+  margin-top: 19px;
+  color: #f1faee;
+  font-size: 25px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+.input_l {
+  margin-top: 20px;
+  width: 474px;
+  height: 78px;
+  background: #374051;
+  border: 0px;
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  color: #949d9f;
+  outline: none;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+::placeholder {
+  color: #949d9f;
+}
+.input_p {
+  margin-top: 36px;
+  width: 474px;
+  height: 78px;
+  background: #374051;
+  border: 0px;
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  color: #949d9f;
+  outline: none;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+.forgot {
+  text-align: right;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: #949d9f;
+}
+.btn {
+  margin-top: 20px;
+  width: 494px;
+  height: 78px;
+  background-color: #e63946;
+  border-radius: 5px;
+  outline: none;
+}
+.login_btn {
+  margin-top: 18px;
+  margin-left: 0px;
+  color: #f1faee;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+.logos {
+  display: flex;
+  width: 494px;
+}
+.logo_google_login {
+  width: 42px;
+  height: 42px;
+  margin-left: 175px;
+  margin-top: 29px;
+}
+.fb_logo_login {
+  width: 42px;
+  height: 42px;
+  margin-left: 57px;
+  margin-top: 29px;
+}
+.text_login_2 {
+  margin-left: 102px;
+  color: #949d9f;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.text_login_2_1 {
+  color: #f1faee;
+  font-weight: 600;
+}

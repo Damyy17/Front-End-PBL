@@ -1,0 +1,63 @@
+.logo_ik {
+  margin-left: 870px;
+  margin-top: 222.1px;
+}
+
+.text {
+  color: #f1faee;
+  width: 821px;
+  height: 43px;
+  text-align: center;
+  margin-left: 550px;
+  margin-top: 80px;
+  font-size: 35px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+.search_bar {
+  width: 862px;
+  height: 87px;
+  background-color: #374051;
+  border-radius: 10px;
+  margin-left: 529px;
+  display: flex;
+}
+.magnifier {
+  width: 24px;
+  height: 24px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.input {
+  margin-left: 15px;
+  width: 651px;
+  height: 85px;
+  background: #374051;
+  border: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  color: #949d9f;
+  outline: none;
+  transition: 0.5s;
+}
+.search_btn {
+  width: 132px;
+  height: 79px;
+  margin-left: 2px;
+  margin-top: 4px;
+  background-color: #e63946;
+  border-radius: 5px;
+  color: #f1faee;
+  font-size: 21px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  border: none;
+}
+.search_txt {
+  font-family: "Montserrat", sans-serif;
+  font-size: 21px;
+  font-weight: 600;
+  margin-left: 27px;
+  margin-top: 24px;
+}

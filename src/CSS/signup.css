@@ -1,0 +1,107 @@
+.signup_page {
+  display: flex;
+}
+.signup_form {
+  width: 494px;
+  height: 588px;
+  margin-left: 393px;
+  margin-top: 76px;
+}
+.signup_txt {
+  margin: 0;
+  color: #f1faee;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+.text_signup_1 {
+  margin-top: 19px;
+  color: #f1faee;
+  font-size: 25px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+.input_fullname {
+  margin-top: 20px;
+  width: 474px;
+  height: 78px;
+  background: #374051;
+  border: 0px;
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  color: #949d9f;
+  outline: none;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+::placeholder {
+  color: #949d9f;
+}
+.input_email_address {
+  margin-top: 34px;
+  width: 474px;
+  height: 78px;
+  background: #374051;
+  border: 0px;
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  color: #949d9f;
+  outline: none;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+.password_signup {
+  margin-top: 34px;
+  width: 474px;
+  height: 78px;
+  background: #374051;
+  border: 0px;
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  color: #949d9f;
+  outline: none;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+.btn_signup {
+  margin-top: 48px;
+  width: 494px;
+  height: 78px;
+  background-color: #e63946;
+  border-radius: 5px;
+  outline: none;
+}
+.btn_signup_txt {
+  margin-top: 18px;
+  margin-left: 0px;
+  color: #f1faee;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+.or_img {
+  margin-top: 28px;
+  margin-left: 47px;
+}
+.logos {
+  display: flex;
+  width: 494px;
+}
+.logo_google_login {
+  width: 42px;
+  height: 42px;
+  margin-left: 175px;
+  margin-top: 20px;
+}
+.fb_logo_login {
+  width: 42px;
+  height: 42px;
+  margin-left: 57px;
+  margin-top: 20px;
+}

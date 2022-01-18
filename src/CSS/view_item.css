@@ -1,0 +1,73 @@
+.item_container {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+.item_form {
+  margin-top: 106px;
+  margin-left: 299px;
+  width: 1322px;
+  height: 729px;
+  background-color: #37405125;
+  border-radius: 10px;
+  border: solid 3px #e63946;
+  display: flex;
+}
+.button_back {
+  width: 43px;
+  height: 43px;
+  margin-left: 31px;
+  margin-top: 19px;
+}
+.image_background {
+  background-color: #e63946;
+  width: 371px;
+  height: 487px;
+  border-radius: 10px;
+  margin-left: 107px;
+  margin-top: 121px;
+}
+.information_form {
+  width: 649px;
+  height: 474px;
+  margin-left: 74px;
+}
+.item_name_view {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #f1faee;
+  margin-top: 134px;
+}
+.item_rating {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+  font-size: 22px;
+  color: #949d9f;
+  margin-top: 24px;
+  margin-bottom: 7px;
+}
+.star_rating {
+  margin-top: 0px;
+}
+.number_of_reviews {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 16px;
+  color: #707070;
+  margin-top: 10px;
+}
+.description_word_view {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #f1faee;
+  margin-left: 0;
+}
+.description_word_view {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #949d9f;
+  margin-left: 0;
+}

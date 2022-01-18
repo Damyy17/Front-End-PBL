@@ -1,0 +1,8 @@
+<svg id="vuesax_linear_close-square" data-name="vuesax/linear/close-square" xmlns="http://www.w3.org/2000/svg" width="29.478" height="29.478" viewBox="0 0 29.478 29.478">
+  <g id="close-square">
+    <path id="Vector" d="M0,6.952,6.952,0" transform="translate(11.263 11.263)" fill="none" stroke="#949d9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-2" data-name="Vector" d="M6.952,6.952,0,0" transform="translate(11.263 11.263)" fill="none" stroke="#949d9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-3" data-name="Vector" d="M8.6,24.565h7.369c6.141,0,8.6-2.456,8.6-8.6V8.6c0-6.141-2.456-8.6-8.6-8.6H8.6C2.456,0,0,2.456,0,8.6v7.369C0,22.108,2.456,24.565,8.6,24.565Z" transform="translate(2.456 2.456)" fill="none" stroke="#949d9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H29.478V29.478H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

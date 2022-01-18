@@ -1,0 +1,211 @@
+.search_form {
+  width: 1920px;
+  height: 220px;
+  background-color: #37405125;
+  margin-top: 0;
+  display: flex;
+}
+
+.two_inputs_for_search {
+  width: 1609px;
+  height: 100px;
+  background-color: #374051;
+  border-radius: 10px;
+  display: flex;
+  margin-left: 162px;
+  margin-top: 23px;
+}
+.magnifier {
+  width: 24px;
+  height: 24px;
+  margin-top: 38px;
+  margin-left: 30px;
+}
+.input_search_page {
+  margin-left: 15px;
+  width: 700px;
+  height: 98px;
+  background: #374051;
+  border: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  color: #949d9f;
+  outline: none;
+  transition: 0.5s;
+}
+.devider {
+  margin-top: 25px;
+  width: 5px;
+  height: 50px;
+}
+.hashtag {
+  margin-left: 15px;
+  margin-top: 36px;
+  width: 26px;
+  height: 24px;
+}
+.selector {
+  width: 550px;
+  height: 100px;
+}
+.selector select {
+  width: 80%;
+  height: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  /*next 2 rows will hide default icons of select element*/
+  -webkit-appearance: none;
+  appearance: none;
+  color: #949d9f;
+  background-color: #374051;
+  border: none;
+}
+.selector select::-ms-expand {
+  display: none;
+}
+.selector select:focus {
+  outline: none;
+  box-shadow: 0 0 0 0;
+}
+.selector .arrow_down {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-top: 28px;
+}
+.selector .arrow_down:focus {
+  color: #e63946;
+}
+.search_button {
+  width: 182px;
+  height: 92px;
+  margin-left: 53px;
+  margin-top: 4px;
+  background-color: #e63946;
+  border-radius: 10px;
+  color: #f1faee;
+  font-size: 21px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  outline: none;
+}
+.search_page_txt {
+  font-family: "Montserrat", sans-serif;
+  font-size: 21px;
+  font-weight: 600;
+  margin-left: 0px;
+  margin-top: 24px;
+}
+.items_section {
+  margin: 0;
+  width: 1920px;
+  height: auto;
+}
+.number_of_items {
+  margin-top: 35px;
+  margin-left: 162px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #f1faee;
+}
+.all_items {
+  margin-top: 20px;
+  margin-left: 198px;
+  width: 1547px;
+  height: 1306px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+.item_example {
+  margin: 0;
+  margin-right: 50px;
+  margin-bottom: 40px;
+  width: 335px;
+  height: 384px;
+  background-color: #374051;
+  border-radius: 10px;
+}
+.topic_name_example {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #f1faee;
+  margin-left: 19px;
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+.author_example {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #949d9f;
+  margin-left: 19px;
+  margin-top: 0;
+}
+.hor_line {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.description_word {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #949d9f;
+  margin-left: 19px;
+  margin-top: 26px;
+  margin-bottom: 0;
+}
+.description_example {
+  margin-top: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 16px;
+  color: #949d9f;
+  margin-left: 19px;
+}
+.tags_example {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  font-size: 16px;
+  color: #949d9f;
+  margin-top: 26px;
+  margin-left: 19px;
+}
+.tags_word {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #949d9f;
+}
+.find_more_button {
+  width: 233px;
+  height: 56px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background-color: #e63946;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.find_more_word {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #f1faee;
+  margin-left: 0;
+  margin-top: 15px;
+}
+.not_found {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  color: #f1faee;
+  text-align: center;
+}
